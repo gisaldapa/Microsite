@@ -28,8 +28,8 @@
         <div class="relative mb-6 group cursor-pointer">
             <div class="w-24 h-24 rounded-full border-4 border-red-600 overflow-hidden shadow-[4px_4px_0px_0px_#991b1b] bg-slate-900 group-hover:-translate-y-1 group-hover:shadow-[6px_6px_0px_0px_#991b1b] transition-all">
                 
-                <!-- Panggil gambar spiderman.jpg di sini -->
-                <img src="{{ asset('images/spiderman.jpg') }}" alt="Profile Avatar" class="w-full h-full object-cover">
+                <!-- Panggil gambar jastiper.jpg di sini -->
+                <img src="{{ asset('images/jastiper.jpg') }}" alt="Profile Avatar" class="w-full h-full object-cover">
 
             </div>
             <!-- Notif Badge -->
